@@ -15,6 +15,6 @@ root.render(
   </React.StrictMode>
 );
 
-export const limitOfItems = 12
+export const limitOfItems = 15
 
 serviceWorkerRegistration.register();
